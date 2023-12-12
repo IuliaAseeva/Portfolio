@@ -3,3 +3,6 @@
 
 # Резюме
 Вы можнте ознакомиться с моим резюме в Google Drive по ссылке https://drive.google.com/file/d/1iXXCmc1i3KqIrbKD3AiXdL9odeucX9Xf/view?usp=sharing
+
+# Примеры работ
+Чек-лист и тест-кейсы для главной страницы кредитного калькулятора https://docs.google.com/spreadsheets/d/1Gvc4o4-ypXTcJIJ6TZSZ60L1TPz9jbN7aapsM49E06E/edit?usp=sharing
