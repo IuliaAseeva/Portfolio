@@ -17,10 +17,18 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Тест-кейсы раздела "оружие" для [игры](https://play.google.com/store/apps/details?id=axes.metaverse.battleground&hl=en) Axes Metaverse Battle Royale [ссылка](https://docs.google.com/spreadsheets/d/1sxWTSdQPtmlbJDc8EKxg1GCK3ACVkU3yOWy1ztaz4io/edit?usp=sharing)
+Чек-листы для приложения Яндекс.Метро и API [ссылка](https://docs.google.com/spreadsheets/d/1P0nXBQbuMsnFFj1U_OdlGe0h0nI8-Fwi0oiu0sT8yn0/edit?usp=sharing)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Тест-кейс на проверку функцианальности раздела пользователи [ссылка](https://docs.google.com/spreadsheets/d/1m2wLAVZ-DEKEX3xU0XJWAmTxx4jQ-kl_Rr4J69ATA1E/edit?usp=sharing)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Тест-кейсы раздела "оружие" для [игры](https://play.google.com/store/apps/details?id=axes.metaverse.battleground&hl=en) Axes Metaverse Battle Royale [ссылка](https://docs.google.com/spreadsheets/d/1sxWTSdQPtmlbJDc8EKxg1GCK3ACVkU3yOWy1ztaz4io/edit?usp=sharing)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Тест-кейсы для формы обратной связи [ссылка](https://docs.google.com/spreadsheets/d/10Pzn__dkYH0pwC-DKoRDkOKtnS07rsaHBrBFdOwPKs4/edit?usp=sharing)
 
 # Портфолио в процессе доделывания...
