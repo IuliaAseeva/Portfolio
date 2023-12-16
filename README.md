@@ -10,7 +10,7 @@
 
 [Mind-map](https://drive.google.com/file/d/1cR7k_4FXHZ356Z_mol6dsjuSmfDUOVKS/view?usp=sharing) для главной страницы кредитного калькулятора
 
-[Тест-кейсы](https://docs.google.com/spreadsheets/d/1Gvc4o4-ypXTcJIJ6TZSZ60L1TPz9jbN7aapsM49E06E/edit?usp=sharing) для главной страницы кредитного
+[Тест-кейсы](https://docs.google.com/spreadsheets/d/1Gvc4o4-ypXTcJIJ6TZSZ60L1TPz9jbN7aapsM49E06E/edit?usp=sharing) для главной страницы кредитного калькулятора
 
 Пример заполнения баг-репорта [скриншот 1](https://drive.google.com/file/d/1QUTBWtTGO8B3ppP5HFc6a0nAyTqvorst/view?usp=sharing)
 
@@ -18,7 +18,7 @@
 
 Пример заполнения баг-репорта [скриншот 3](https://drive.google.com/file/d/1FJNIKZglKVhFGDyZhMLqMcCmYMpJS8Nh/view?usp=sharing)
 
-Скриншот со всеми [баг-репортами](https://drive.google.com/drive/folders/1neW_hQZYm0KXbKOxgv0mFtgrp_Wyo8os?usp=sharing) для кредитного
+Скриншот со всеми [баг-репортами](https://drive.google.com/drive/folders/1neW_hQZYm0KXbKOxgv0mFtgrp_Wyo8os?usp=sharing) для кредитного калькулятора
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
