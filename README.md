@@ -33,5 +33,5 @@ Mind-map для главной страницы кредитного кальк�
 
 Тест-кейсы для формы обратной связи [ссылка](https://docs.google.com/spreadsheets/d/10Pzn__dkYH0pwC-DKoRDkOKtnS07rsaHBrBFdOwPKs4/edit?usp=sharing)
 
-# Портфолио доделывается
+[test](https://github.com/StyletTiger/Page-Object/tree/master)
 
