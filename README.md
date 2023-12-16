@@ -12,11 +12,11 @@
 
 [Тест-кейсы](https://docs.google.com/spreadsheets/d/1Gvc4o4-ypXTcJIJ6TZSZ60L1TPz9jbN7aapsM49E06E/edit?usp=sharing) для главной страницы кредитного
 
-Примеры заполнения баг-репортов [скриншот 1](https://drive.google.com/file/d/1QUTBWtTGO8B3ppP5HFc6a0nAyTqvorst/view?usp=sharing)
+Пример заполнения баг-репорта [скриншот 1](https://drive.google.com/file/d/1QUTBWtTGO8B3ppP5HFc6a0nAyTqvorst/view?usp=sharing)
 
-Примеры заполнения баг-репортов [скриншот 2](https://drive.google.com/file/d/13jMTxaNL4Pl7WPx7CBSVO3JUm6wjne-8/view?usp=sharing)
+Пример заполнения баг-репорта [скриншот 2](https://drive.google.com/file/d/13jMTxaNL4Pl7WPx7CBSVO3JUm6wjne-8/view?usp=sharing)
 
-Примеры заполнения баг-репортов [скриншот 3](https://drive.google.com/file/d/1FJNIKZglKVhFGDyZhMLqMcCmYMpJS8Nh/view?usp=sharing)
+Пример заполнения баг-репорта [скриншот 3](https://drive.google.com/file/d/1FJNIKZglKVhFGDyZhMLqMcCmYMpJS8Nh/view?usp=sharing)
 
 Скриншоты со всеми [баг-репортами](https://drive.google.com/drive/folders/1neW_hQZYm0KXbKOxgv0mFtgrp_Wyo8os?usp=sharing) для кредитного
 
