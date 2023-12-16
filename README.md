@@ -5,6 +5,8 @@
 Вы можнте ознакомиться по ссылке с моим [резюме](https://drive.google.com/file/d/1iXXCmc1i3KqIrbKD3AiXdL9odeucX9Xf/view?usp=sharing)
 
 # Примеры работ
+Mind-map для главной страницы кредитного калькулятора [ссылка](https://drive.google.com/file/d/1cR7k_4FXHZ356Z_mol6dsjuSmfDUOVKS/view?usp=sharing)
+
 Тест-кейсы для главной страницы кредитного калькулятора [ссылка](https://docs.google.com/spreadsheets/d/1Gvc4o4-ypXTcJIJ6TZSZ60L1TPz9jbN7aapsM49E06E/edit?usp=sharing)
 
 Примеры заполнения баг-репортов [скриншот 1](https://drive.google.com/file/d/1QUTBWtTGO8B3ppP5HFc6a0nAyTqvorst/view?usp=sharing)
