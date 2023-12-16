@@ -18,7 +18,7 @@
 
 Пример заполнения баг-репорта [скриншот 3](https://drive.google.com/file/d/1FJNIKZglKVhFGDyZhMLqMcCmYMpJS8Nh/view?usp=sharing)
 
-Скриншоты со всеми [баг-репортами](https://drive.google.com/drive/folders/1neW_hQZYm0KXbKOxgv0mFtgrp_Wyo8os?usp=sharing) для кредитного
+Скриншот со всеми [баг-репортами](https://drive.google.com/drive/folders/1neW_hQZYm0KXbKOxgv0mFtgrp_Wyo8os?usp=sharing) для кредитного
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
